@@ -30,5 +30,4 @@ The dashboard explores the relationship between Sales, Profit, and Discount usin
 - DAX Measures
 - GitHub
 
-## 📍 Submission Link
-[Click to Submit Task](https://forms.gle/8Gm83s53KbyXs3Ne9)
+
