@@ -1,5 +1,4 @@
-# sales-dashboard-
-"Power BI dashboard analyzing sales, discounts, and profit trends."
+
 # Power BI Sales Analysis – Task 2
 
 ## 📊 Project Overview
